@@ -1,0 +1,6 @@
+.bg-img{
+    background:url('/images/outdoor.jpg');
+    background-repeat: none;
+    background-size: cover;
+    width: 500px;
+}
