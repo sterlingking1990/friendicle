@@ -9,3 +9,15 @@
     margin-top:200px;
     border: none;
 }
+
+#hook-card{
+    border: 5px solid white;
+
+}
+
+#hooks h3{
+    background-color: #343A40;
+    padding: 5px 10px 5px 10px;
+    margin-left: 3px;
+
+}
