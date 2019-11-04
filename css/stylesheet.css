@@ -1,5 +1,5 @@
 .bg-img{
-    background:url('/images/outing.jpg');
+    background:url('/images/friendicle.jpg');
     background-repeat: none;
     background-size: cover;
     min-height: 500px;
@@ -12,12 +12,55 @@
 
 #hook-card{
     border: 5px solid white;
+    margin-left: 5px;
 
 }
+
+.info-card{
+    float: inline-start;
+    z-index: 1;
+}
+.panel {
+  display: none;
+  overflow: hidden;
+}
+
+#places .accordion{
+    width: 100%;
+    align-self: center;
+    border-radius: 50%;
+    width: 30px;
+    height: 25px;
+    background-color: #343A40;
+    color:white;
+
+}
+
+#header span{
+    font-family: pacifico;
+}
+
+#places .card{
+    border:1px solid grey;
+}
+
+#hooks a:link{
+    text-decoration: none;
+    
+}
+
 
 #hooks h3{
     background-color: #343A40;
     padding: 5px 10px 5px 10px;
     margin-left: 3px;
 
+}
+
+#join .card{
+    border: 5px solid white;
+}
+
+#host-form .card{
+    border:5px solid white;
 }
